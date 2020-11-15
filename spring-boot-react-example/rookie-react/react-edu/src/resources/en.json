@@ -1,0 +1,11 @@
+{
+  "author_name": "Victorious",
+  "select_language": "Select Language",
+  "tr": "Türkçe",
+  "en": "English",
+  "userName_label":"User Name",
+  "password_label": "Password",
+  "signIn_label": "Sign In",
+  "signIn_success_label": "Successful",
+  "signIn_error": "User name or password wrong"
+}

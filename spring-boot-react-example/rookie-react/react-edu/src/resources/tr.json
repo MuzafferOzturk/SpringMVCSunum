@@ -1,0 +1,11 @@
+{
+  "author_name": "Muzaffer",
+  "select_language": "Dil Seçiniz",
+  "tr": "Türkçe",
+  "en": "English",
+  "userName_label": "Kullanıcı Adı",
+  "password_label": "Şifre",
+  "signIn_label": "Giriş Yap",
+  "signIn_success_label": "Başarılı",
+  "signIn_error": "Kullanıcı adı veya şifre hatalı"
+}
